@@ -3,9 +3,9 @@
 This project introduces an advanced algorithm empowered by artificial intelligence, capable of dynamically detecting and tracking instances of potential stalking or harassment in real-time, even in low-light environments. Designed to enhance safety for women at night, it vigilantly monitors their surroundings, promptly alerting them to any looming dangers.
 
 ## Demo.mp4 has the demo video of how the tracker works
-  - It draws a black box around a human when it detect that person for the first time
+  - It draws a black box around a human when it detects that person for the first time
   - The black box becomes red when the person has been there for a long time
-  - The black box also becomes red when a person detected previous dissapears and reappears in the user's surroundingß
+  - The black box also becomes red when a person detected previously dissapears and reappears in the user's surroundings
 ![image](https://github.com/amqsabnur/Safety-Tracking-with-artificial-intelligence/assets/36308612/e2367768-e1e1-4557-a01e-3182bcb0bdb4)
 
 ### Motivation
