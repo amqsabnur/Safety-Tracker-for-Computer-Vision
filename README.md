@@ -1,7 +1,10 @@
 # Safety Tracker: Enhancing Nighttime Security for Women
 
-Developed a project to "see" and recognize objects in real-time, even in the dark. It's designed to help improve safety for women at night by keeping track of what's happening around them and alerting to any potential dangers.
+### Demo.mp4 has the demo video of how the proram works
 
+This algorithm can identify and track if the user is being follwed by someone in real-time. Even in the dark. It's designed to help improve safety for women at night by keeping track of what's happening around them and alerting to any potential dangers.
+
+![image](https://github.com/amqsabnur/Safety-Tracking-with-artificial-intelligence/assets/36308612/61a2eb84-2bc5-4d9f-8f80-28475b44f348)
 
 Developed a Computer Vision algorithm combining YOLOv5 for real-time object detection and DeepSORT for object tracking.
 Focuses on improving safety measures during nighttime hours.
